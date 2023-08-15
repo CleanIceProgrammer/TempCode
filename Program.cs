@@ -19,7 +19,7 @@
                     }
                 }
             }
-            n--;
+            n--; // hello
             for (int i = 2; i <= n; i++) {
                 ans += arr[i] * 2;
             }
